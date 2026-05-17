@@ -84,6 +84,8 @@ Quantity analysis identified MEDIUM CERAMIC TOP STORAGE JAR as the highest-selli
 
 Additionally, multiple cake-case related products appeared among the top-selling items by quantity. This may indicate consistently strong consumer demand within this category and could suggest repeat purchasing behaviour associated with baking or party-related products.
 
+---
+
 ### Top Customers by Total Spend
 ![Top Customers](top_customers.png)
 
