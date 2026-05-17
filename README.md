@@ -149,6 +149,10 @@ In France, **MINI PAINT SET VINTAGE** recorded the highest sales volume. Several
 
 Power BI dashboard screenshots and visual analysis will be added upon completion of the dashboard build.
 
+## Dashboard Preview
+
+![Dashboard](dashboard-1.png)
+
 ---
 
 ## Author
