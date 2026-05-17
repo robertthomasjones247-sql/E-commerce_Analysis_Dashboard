@@ -68,7 +68,7 @@ The dataset contains transactional E-commerce sales data with the following fiel
 ### Top Revenue Products
 ![Top Revenue Products](top_products_revenue.png)
 
-Revenue analysis shows that REGENCY CAKESTAND 3 TIER (£84,695.95) generated the highest total revenue, followed by MEDIUM CERAMIC TOP STORAGE JAR (£78,499.90). Both products significantly outperformed the remaining top-selling items within the dataset.
+Revenue analysis shows that REGENCY CAKESTAND 3 TIER **£84,695.95** generated the highest total revenue, followed by MEDIUM CERAMIC TOP STORAGE JAR (£78,499.90). Both products significantly outperformed the remaining top-selling items within the dataset.
 
 Interestingly, four of the top five revenue-generating products were either home décor or party-related items, suggesting strong customer demand within these categories.
 
