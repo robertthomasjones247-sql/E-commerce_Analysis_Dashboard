@@ -93,9 +93,9 @@ Analysis of customer spending identified customer **14646** as the highest-value
 Both customers generated substantially higher revenue than the remaining top customers, suggesting a notable concentration of sales among a relatively small group of high-value buyers.
 
 The remaining top five customers were:
-	• Customer 12346 **(£77,183.60)** 
-	• Customer 12415 **(£74,310.71)** 
-	• Customer 17450 **(£61,165.74)** 
+	• Customer **12346** **(£77,183.60)** 
+	• Customer **12415** **(£74,310.71)** 
+	• Customer **17450** **(£61,165.74)** 
 	
 A notable trend among these customers was the frequent purchase of homeware-related products. This may indicate particularly strong demand for decorative and household items among the retailer’s highest-spending customer segment.
 
