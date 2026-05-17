@@ -109,6 +109,8 @@ Revenue analysis of lower-performing products revealed a broad range of items ge
 
 Among these lower-revenue products, FOLDING CAMPING SCISSOR W/KNIF & S recorded the highest sales volume, with a total quantity sold of 30 units. This suggests that although the product experiences relatively strong sales activity, its low unit price limits its overall revenue contribution.
 
+---
+
 
 ### Country Sales Analysis
 ![Country Analysis](country_analysis.png)
