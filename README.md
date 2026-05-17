@@ -74,7 +74,7 @@ Interestingly, four of the top five revenue-generating products were either home
 
 Additionally, postage appeared among the highest revenue contributors, indicating that shipping fees represent a meaningful proportion of overall transaction revenue.
 
-
+---
 
 
 ### Top Selling Products by Quantity
@@ -97,6 +97,8 @@ The remaining top five customers were:
 	
 A notable trend among these customers was the frequent purchase of homeware-related products. This may indicate particularly strong demand for decorative and household items among the retailer’s highest-spending customer segment.
 
+---
+
 
 ### Lowest Revenue Products
 ![Lowest Revenue Products](lowest_performing_revenue.png)
@@ -116,6 +118,7 @@ The remaining countries represented among the top 10 customers were:
 	• EIRE – 23,923 units 
 Interestingly, although the United Kingdom generated the highest overall purchase volume, the Netherlands contained the single highest-volume customer, with one customer accounting for 86,411 purchased units alone. This may indicate the presence of a large-scale commercial buyer or bulk purchasing activity within the Dutch customer segment.
 
+---
 
 
 ### England vs France Product Analysis
@@ -126,6 +129,8 @@ Analysis of total product sales by country shows that the United Kingdom signifi
 Within the United Kingdom, MEDIUM CERAMIC TOP STORAGE JAR was the highest-selling product, with total sales of 75,101 units. Additionally, multiple RetroSpot and assorted-colour themed products appeared among the top-selling items, potentially indicating strong customer preference for decorative and themed household products.
 
 In France, MINI PAINT SET VINTAGE recorded the highest sales volume. Several Red Spotty themed products also appeared among the top-selling items, suggesting consistent customer demand for this particular design style within the French market.
+
+---
 
 
 ## Tools Used
